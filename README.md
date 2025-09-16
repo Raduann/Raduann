@@ -34,15 +34,6 @@ class Raduan:
 
 </div>
 
-## 📊 My ego (prepare for disappointment)
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=dracula&hide_border=true&bg_color=0d1117&title_color=f75c7e&icon_color=f75c7e&text_color=ffffff" />
-
-hahahahahahaha how bad!
-
-</div>
-
 ## 🔍 Feel free to stalk me =D
 
 Unfortunately, I'm a **half-decent programmer**, but if you made it this far, at least my documentation works better than my code.
