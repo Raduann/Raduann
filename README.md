@@ -8,7 +8,7 @@
 
 ## 🎭 Who am I?
 
-My name is **Raduan** and I'm the CEO of [Hakutaku.co](https://hakutaku.co) - because apparently someone had to take responsibility for this mess.
+My name is **Raduan** and I'm the CEO of [Hakutaku.ai](https://hakutaku.ai) - because apparently someone had to take responsibility for this mess.
 
 ## 🐍 My technical journey (or how I learned to stop worrying and love the chaos)
 
